@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CW8_Teja/static/css/main.b9164d72.css",
+    "main.js": "/CW8_Teja/static/js/main.6808c6df.js",
+    "static/js/787.d4aba7ab.chunk.js": "/CW8_Teja/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/CW8_Teja/index.html",
+    "main.b9164d72.css.map": "/CW8_Teja/static/css/main.b9164d72.css.map",
+    "main.6808c6df.js.map": "/CW8_Teja/static/js/main.6808c6df.js.map",
+    "787.d4aba7ab.chunk.js.map": "/CW8_Teja/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9164d72.css",
+    "static/js/main.6808c6df.js"
+  ]
+}
